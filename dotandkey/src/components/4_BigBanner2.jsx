@@ -10,5 +10,6 @@ const BigBanner2 = () => {
       <h1 className="p2">NEW ARRIVALS</h1>
     </div>
   );
+  
 };
 export default BigBanner2;
