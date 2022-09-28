@@ -24,6 +24,7 @@ const Bar = () => {
   );
 };
 
+
 const Scroll = () => {
   return (
     <>
