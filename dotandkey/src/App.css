@@ -14,6 +14,8 @@
   padding: 20px;
   display: flex;
   gap: 400px;
+
+  width: 100%;
 }
 .navbar > div:nth-child(1) > img {
   width: 30px;
@@ -25,9 +27,7 @@
   margin-top: 20px;
   margin-left: 10px;
 }
-.banner1 > img {
-  width: 100%;
-}
+
 .banner2 {
   margin-top: 50px;
   text-align: center;
@@ -212,24 +212,23 @@ h3 {
   font-weight: 600;
 }
 
-.Footer{
+.Footer {
   display: flex;
   justify-content: space-around;
 }
-.bold2{
+.bold2 {
   font-size: 20px;
   line-height: 40px;
   color: #50504b;
 }
-.footerbutton{
+.footerbutton {
   padding: 13px;
   font-size: 14px;
   background-color: #50504b;
   color: white;
   border: none;
-
 }
-.input1{
+.input1 {
   padding: 12px;
   width: 290px;
   border-top: none;
@@ -239,7 +238,7 @@ h3 {
   margin-right: 10px;
 }
 
-.footerbutton2{
+.footerbutton2 {
   padding: 13px;
   font-size: 16px;
   font-weight: 600;
@@ -248,14 +247,62 @@ h3 {
   border: none;
   margin-top: 20px;
 }
-.footerlastdiv{
+.footerlastdiv {
   display: flex;
   gap: 20px;
   margin-top: 20px;
-
 }
-.footerlastdiv>div>img{
+.footerlastdiv > div > img {
   width: 30px;
   height: 30px;
   margin-top: 10px;
+}
+.link1 {
+  width: 30px;
+  margin-left: 10px;
+}
+.form {
+  width: 500px;
+  text-align: center;
+  margin-left: 480px;
+  font-family: sans-serif;
+}
+.form >h1{
+color: #50504b;
+}
+.fb > img {
+  width: 100%;
+}
+.fb {
+  width: 439px;
+  margin: auto;
+  margin-top: 10px;
+  padding: 2px;
+  display: flex;
+  justify-content: space-around;
+}
+form {
+  line-height: 10px;
+
+}
+form > input {
+  padding: 10px;
+  font-size: 20px;
+  width: 400px;
+  color: gray;
+}
+form > h4 {
+  text-align: left;
+  margin-left: 40px;
+  color: #50504b;
+}
+form > button {
+  color: white;
+  background-color: #50504b;
+  margin-top: 30px;
+  width: 420px;
+  padding: 12px;
+  font-size: large;
+  border: none;
+  cursor: pointer;
 }
