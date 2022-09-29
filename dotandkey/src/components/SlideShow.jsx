@@ -31,8 +31,8 @@ class Apps extends Component {
       infinite: true,
       easing: "ease",
     };
+
     const slideImages = [
-
       "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/desk_17.jpg?v=1663324415",
       "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/desk_18.jpg?v=1663324415",
       "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/CATE_DESK_18.jpg?v=1663324418",
@@ -52,9 +52,9 @@ class Apps extends Component {
       "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/desk_18.jpg?v=1663324415",
       "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/CATE_DESK_18.jpg?v=1663324418",
       "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/desk_19.jpg?v=1663324415",
-      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/CATE_DESK_17.jpg?v=1663324415"
-
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/CATE_DESK_17.jpg?v=1663324415",
     ];
+
     return (
       <div className="App">
         <div className="slide-container">
