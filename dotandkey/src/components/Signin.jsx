@@ -2,8 +2,13 @@ import React from "react";
 import Navbar from "./2_Navbar";
 import Footer from "./9_Footer";
 import { Link } from "react-router-dom";
+import Login from "./login";
 
 const Signin = () => {
+  const func = () => {
+  alert("hiii")
+  window.location.href="./login.jsx"
+  };
   return (
     <>
       <Navbar />
@@ -23,10 +28,14 @@ const Signin = () => {
           <h4>PASSWORD</h4>
           <input type="password" />
           <br />
-          <button>Create</button>
+          <a></a>
+          <button onClick={func}>Create</button>
         </form>
+        <br />
 
-        <Link to="login">Already have an account? Login here.</Link>
+        <a className="sin" href="login">
+          Already have an account? Login here.
+        </a>
       </div>
       <br />
       <br />

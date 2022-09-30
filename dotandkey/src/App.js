@@ -1,6 +1,7 @@
 import "./App.css";
 import Allroutes from "./components/Allroutes";
-import Homepage from "./components/Homepage";
+
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (

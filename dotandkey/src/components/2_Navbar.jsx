@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+
 const Navbar = () => {
   return (
     <div className="navbar">
@@ -16,7 +17,7 @@ const Navbar = () => {
         <img src="https://cdn-icons-png.flaticon.com/512/2956/2956735.png" />
         <img src="https://cdn-icons-png.flaticon.com/512/2438/2438133.png" />
 
-        <Link to="login">
+        <Link to="signin">
           <img
             className="link1"
             src="https://cdn-icons-png.flaticon.com/512/3293/3293331.png"

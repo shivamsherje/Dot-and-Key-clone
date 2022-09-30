@@ -260,15 +260,18 @@ h3 {
 .link1 {
   width: 30px;
   margin-left: 10px;
+  margin-top: 20px;
 }
+
 .form {
   width: 500px;
   text-align: center;
-  margin-left: 480px;
+  margin-left: 520px;
   font-family: sans-serif;
+  margin-top: 20px;
 }
-.form >h1{
-color: #50504b;
+.form > h1 {
+  color: #50504b;
 }
 .fb > img {
   width: 100%;
@@ -283,7 +286,6 @@ color: #50504b;
 }
 form {
   line-height: 10px;
-
 }
 form > input {
   padding: 10px;
@@ -293,16 +295,21 @@ form > input {
 }
 form > h4 {
   text-align: left;
-  margin-left: 40px;
+  margin-left: 50px;
   color: #50504b;
+  font-size: 20px;
 }
 form > button {
   color: white;
   background-color: #50504b;
   margin-top: 30px;
-  width: 420px;
-  padding: 12px;
+  padding: 20px;
+  width: 400px;
   font-size: large;
   border: none;
   cursor: pointer;
+}
+.sin {
+  text-decoration: none;
+  color: #50504b;
 }
