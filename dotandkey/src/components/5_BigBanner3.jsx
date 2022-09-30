@@ -2,6 +2,7 @@ import React from "react";
 
 const BigBanner3 = () => {
   return (
+    
     <>
       <div className="BigBanner3">
         <div>
