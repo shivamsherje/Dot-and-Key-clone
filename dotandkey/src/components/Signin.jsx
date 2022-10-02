@@ -1,21 +1,22 @@
 import React from "react";
 import Navbar from "./2_Navbar";
 import Footer from "./9_Footer";
-import { Link } from "react-router-dom";
-import Login from "./login";
+import { Navigate } from "react-router-dom";
 
 const Signin = () => {
-  const func = () => {
-  alert("hiii")
-  window.location.href="./login.jsx"
-  };
+  const [goToHome, SetGotoHome] = React.useState(false);
+
+  if (goToHome) {
+    alert("signin successfull");
+    return <Navigate to="/login" />;
+  }
   return (
     <>
       <Navbar />
       <div className="form">
         <h1>Create Account</h1>
         <div className="fb">
-          <img src="https://i.stack.imgur.com/b6jfF.png" />
+          <img src="https://i.stack.imgur.com/b6jfF.png" alt="yes" />
         </div>
 
         <form>
@@ -28,8 +29,14 @@ const Signin = () => {
           <h4>PASSWORD</h4>
           <input type="password" />
           <br />
-          <a></a>
-          <button onClick={func}>Create</button>
+
+          <button
+            onClick={() => {
+              SetGotoHome(true);
+            }}
+          >
+            Create
+          </button>
         </form>
         <br />
 
