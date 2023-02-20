@@ -25,14 +25,16 @@ Buy Natural Skin Care Products for All Skin Types.
 
 ## Snapshot Of project
 
+### Sign Up Page
+<img width="90%" src="https://user-images.githubusercontent.com/97978681/220150476-93931c78-80ab-49de-81f6-fd50e8a8b4bb.png"/>
+
 ### Login Page
 <img width="90%" align="center" src="https://user-images.githubusercontent.com/97978681/220150448-658168b5-1607-4337-96e2-e84d2b53b8b4.png"/>
 
 ### Home Page 
 <img width="90%" src="https://user-images.githubusercontent.com/97978681/220150533-d27ac9d0-665c-44a3-b598-e6afb11c38e4.png"/>
 
-### Sign Up Page
-<img width="90%" src="https://user-images.githubusercontent.com/97978681/220150476-93931c78-80ab-49de-81f6-fd50e8a8b4bb.png"/>
+
 
 
 ## Developer
