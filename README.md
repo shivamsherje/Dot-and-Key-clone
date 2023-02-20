@@ -1,7 +1,8 @@
 # Dot-and-Key-clone-  **[Deployed Link](https://thriving-mochi-1e7141.netlify.app/)**
 Buy Natural Skin Care Products for All Skin Types.
 
-## Description : This project is the clone of the frontend website of  Dot-and-Key-clone. Its all the landing pages from the original working website, with Login/Sign out functionality.This project is completed individually in 5 days.
+## Description
+This project is the clone of the frontend website of  Dot-and-Key-clone. Its all the landing pages from the original working website, with Login/Sign out functionality.This project is completed individually in 5 days.
 
 ## Functionalities :
 <ul>
