@@ -32,7 +32,8 @@ Buy Natural Skin Care Products for All Skin Types.
 <img width="90%" src="https://user-images.githubusercontent.com/97978681/220150533-d27ac9d0-665c-44a3-b598-e6afb11c38e4.png"/>
 
 ### Login Page
-<img width="90%" src="https://user-images.githubusercontent.com/97978681/220150533-d27ac9d0-665c-44a3-b598-e6afb11c38e4.png"/>
+<img width="90%" src="https://user-images.githubusercontent.com/97978681/220150448-658168b5-1607-4337-96e2-e84d2b53b8b4.png"/>
+
 
 ## Developer
  - **[Shivam Sherje](https://github.com/shivamsherje)**
